@@ -1,1 +1,2 @@
 This is first line of file C
+This is second line of  fileC
