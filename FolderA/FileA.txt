@@ -2,3 +2,4 @@ This is first line of file A
 This is second line of file A
 This is third line of file A
 This is fourth line of fileA
+This is five line of fileA
